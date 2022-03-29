@@ -1,4 +1,8 @@
 # VortexBaseanator
+requires pillow
+
+	python -m pip install pillow
+
 Pre-Alpha Tool for helping visualize and understand vortex math in different base number systems.
 
 Command Line Interface.

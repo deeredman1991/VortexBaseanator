@@ -2,9 +2,14 @@
 Pre-Alpha Tool for helping visualize and understand vortex math in different base number systems.
 
 Command Line Interface.
+
 [number to print] [base] [start blue line at] [ add to blue line every iteration ]
+
+
 example;
-	30 10 3 6
+	
+	python main.py 30 10 3 6
+	
 	Which means; print 30 iterations of base 10, set the blue line's starting position to 3, and increment by 6 every iteration.
 	
 Currently ALL field are required but I am working on addressing that issue.

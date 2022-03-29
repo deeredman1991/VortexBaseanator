@@ -10,7 +10,7 @@ example;
 	
 	python main.py 30 10 3 6
 	
-	Which means; print 30 iterations of base 10, set the blue line's starting position to 3, and increment by 6 every iteration.
+Which means; print 30 iterations of base 10, set the blue line's starting position to 3, and increment by 6 every iteration.
 	
 Currently ALL field are required but I am working on addressing that issue.
 	

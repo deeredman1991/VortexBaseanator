@@ -1,13 +1,11 @@
 # VortexBaseanator
+Pre-Alpha CLI Tool for generating images that help to visualize and understand vortex math in different base number systems.
+
 requires pillow
 
 	python -m pip install pillow
 
-Pre-Alpha Tool for helping visualize and understand vortex math in different base number systems.
-
-Command Line Interface.
-
-[number to print] [base] [start blue line at] [ add to blue line every iteration ]
+python main.py [number to print] [base] [start blue line at] [add to blue line every iteration]
 
 
 example;
